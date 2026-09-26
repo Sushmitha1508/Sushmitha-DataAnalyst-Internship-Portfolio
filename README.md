@@ -16,12 +16,12 @@ Over four progressive stages, I took a single retail sales dataset (1,000 orders
 
 ## The Four Tasks
 
-| # | Task | Focus | Repository |
-|---|---|---|---|
-| 1 | **Data Cleaning & Preparation** | Handling missing values, duplicates, and data quality issues in the raw dataset | [task1](https://github.com/Sushmitha1508/task1) |
-| 2 | **Exploratory Data Analysis & Business Intelligence** | Descriptive statistics, SQL business queries, multivariate analysis, static dashboard mock-up | [task2](https://github.com/Sushmitha1508/task2) |
-| 3 | **Deep-Dive Analysis & Interactive Dashboarding** | Core KPI definitions, customer segmentation (business-rule tiers + K-Means clustering), interactive Power BI dashboard | [task3](https://github.com/Sushmitha1508/task3) |
-| 4 | **Data Storytelling & Statistical Validation** | Chi-squared hypothesis testing, final stakeholder presentation deck, business narrative | [task4](https://github.com/Sushmitha1508/task4) |
+| # | Task                                                        | Focus                                                                                                                  | Repository                                     |
+| - | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1 | **Data Cleaning & Preparation**                       | Handling missing values, duplicates, and data quality issues in the raw dataset                                        | [task1](https://github.com/Sushmitha1508/task1) |
+| 2 | **Exploratory Data Analysis & Business Intelligence** | Descriptive statistics, SQL business queries, multivariate analysis, static dashboard mock-up                          | [task2](https://github.com/Sushmitha1508/task2) |
+| 3 | **Deep-Dive Analysis & Interactive Dashboarding**     | Core KPI definitions, customer segmentation (business-rule tiers + K-Means clustering), interactive Power BI dashboard | [task3](https://github.com/Sushmitha1508/task3) |
+| 4 | **Data Storytelling & Statistical Validation**        | Chi-squared hypothesis testing, final stakeholder presentation deck, business narrative                                | [task4](https://github.com/Sushmitha1508/task4) |
 
 ---
 
@@ -54,6 +54,7 @@ The refined, consolidated version of the final stakeholder deck — synthesizing
 ## Setting Up GitHub Pages
 
 This repo includes an `index.html` for a visual portfolio site. To publish it:
+
 1. Push this repo to GitHub under the name `Sushmitha-DataAnalyst-Internship-Portfolio`
 2. Go to **Settings → Pages**
 3. Under "Source," select the `main` branch and `/ (root)` folder
@@ -65,4 +66,4 @@ This repo includes an `index.html` for a visual portfolio site. To publish it:
 ## Connect
 
 - **GitHub:** [Sushmitha1508](https://github.com/Sushmitha1508)
-- **LinkedIn:** *[add your LinkedIn URL]*
+- **LinkedIn:** [www.linkedin.com/in/sushmitha-s-a58a8b295](https://www.linkedin.com/in/sushmitha-s-a58a8b295/)
